@@ -1,0 +1,10 @@
+{
+  "ActiveDefense": {
+  "file_name": "sampled_data_100.json",
+  "columns": {
+    "prompt": "instruction",
+    "query": "input",
+    "response": "output"
+  }
+}
+}
